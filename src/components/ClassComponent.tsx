@@ -5,7 +5,7 @@ class ClassComponent extends Component {
   render() {
    return( 
     <div>
-       <h2>ClassComponent</h2>
+       <h2>ClassComponent TS</h2>
     </div>
    )
 }
